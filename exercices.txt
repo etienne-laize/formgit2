@@ -7,3 +7,4 @@ Eastern Europe
     Kiev
     Budapest 
     Belgrade
+    Bucarest
