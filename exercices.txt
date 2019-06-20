@@ -1,3 +1,4 @@
 Western Europe
     paris
     madrid
+    Bruxelles
