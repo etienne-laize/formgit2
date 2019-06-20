@@ -2,3 +2,8 @@ Western Europe
     paris
     madrid
     Bruxelles
+Eastern Europe
+    Berlin
+    Kiev
+    Budapest 
+    Belgrade
